@@ -1,0 +1,12 @@
+console.log("Hello" + " World!");
+console.log(10 + 20);
+console.log(20-10);
+console.log(10*2);
+console.log(20/2);
+console.log(21 % 2);
+console.log(10 === 20);
+console.log(10 !== 20);
+console.log(10 > 20);
+console.log(10 < 20);
+console.log(10 >= 20);
+console.log(10 <= 20);
